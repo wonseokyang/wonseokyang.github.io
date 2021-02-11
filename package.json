@@ -8,7 +8,7 @@
     "@fullcalendar/daygrid": "^4.0.1",
     "@fullcalendar/interaction": "^4.0.2",
     "@fullcalendar/react": "^4.0.2-beta",
-    "apexcharts": "^3.6.6",
+    "apexcharts": "^3.24.0",
     "availity-reactstrap-validation": "2.6.0",
     "bootstrap": "^4.2.1",
     "britecharts-react": "^0.5.1",
